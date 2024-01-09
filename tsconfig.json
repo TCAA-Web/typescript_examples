@@ -4,7 +4,7 @@
       "moduleResolution": "Node",
       "preserveConstEnums": true,
       "strict": true,
-      "target": "ES6",
+      "target": "ESNext",
       "outDir": "./built",
       "rootDir": "./src/"
     },
